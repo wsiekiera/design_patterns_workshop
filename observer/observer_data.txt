@@ -1,0 +1,10 @@
+account_open,596533
+payment_send,179892
+payment_receive,665791
+account_close,794859
+account_open,883322
+account_close,150442
+account_close,438310
+payment_send,816316
+account_close,999099
+payment_send,405784
